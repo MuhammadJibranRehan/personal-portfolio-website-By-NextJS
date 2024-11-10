@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import "./style.css";
 
+
 const HeroSection = () => {
   return (
     <section className="hero-section">

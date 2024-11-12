@@ -686,3 +686,8 @@
 .tab-button-indicator.active {
   width: calc(100% - 0.75rem);
 }
+
+#PrjS{
+  color: white;
+  font: 900;
+}

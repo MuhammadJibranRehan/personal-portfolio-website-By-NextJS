@@ -70,6 +70,9 @@ const ProjectsSection = () => {
           </motion.li>
         ))}
       </ul>
+      <div id="PrjS">
+      PROJECTS ARE NOT LOADING RIGHT NOW...
+      </div>
     </section>
   );
 };
